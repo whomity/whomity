@@ -1,5 +1,5 @@
 ### Hi there 👋
                        
 <a href="https://github.com/whomity">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=whomity&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=whomity&theme=dark" />
 </a>
